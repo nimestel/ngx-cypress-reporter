@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.0400" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-03T15:59:43" tests="0" file="cypress/integration/examples/cookies.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Cookies" timestamp="2020-09-03T15:59:43" tests="5" time="2.0400" failures="0">
+    <testcase name="Cookies cy.getCookie() - get a browser cookie" time="0.9340" classname="cy.getCookie() - get a browser cookie">
+    </testcase>
+    <testcase name="Cookies cy.getCookies() - get browser cookies" time="0.3030" classname="cy.getCookies() - get browser cookies">
+    </testcase>
+    <testcase name="Cookies cy.setCookie() - set a browser cookie" time="0.1990" classname="cy.setCookie() - set a browser cookie">
+    </testcase>
+    <testcase name="Cookies cy.clearCookie() - clear a browser cookie" time="0.3050" classname="cy.clearCookie() - clear a browser cookie">
+    </testcase>
+    <testcase name="Cookies cy.clearCookies() - clear browser cookies" time="0.2990" classname="cy.clearCookies() - clear browser cookies">
+    </testcase>
+  </testsuite>
+</testsuites>
